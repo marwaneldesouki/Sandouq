@@ -102,7 +102,7 @@ Upon completion of the delivery and verification of the papers, a picture will b
   <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/9597ef41-8629-4dfd-8ed8-69822b2c6a39" alt="Image 12" width="100"/>
 </p>
 
-    Mobile app.
+    Sandouq.
 <p align="center">
   <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/16e355e4-f0f2-47f1-9ee8-ddfe6f2165ae" alt="Image 1" width="300"/>
   <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/6c0a9250-a822-4a4e-8dcf-e9bd98dc2984" alt="Image 2" width="300"/>
