@@ -80,11 +80,6 @@ Upon completion of the delivery and verification of the papers, a picture will b
     
   
 ## Images + ScreenShots
-    Sandouq.
-<p align="center">
-  <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/d8a04c09-a211-41ed-95ce-c9f97fd5176b" alt="Image 1"  />
-  <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/8c75119c-71e7-49f2-bbf7-9b11419e2c63" alt="Image 3"  />
-</p>
 
     Mobile app.
 <p align="center">
@@ -103,6 +98,10 @@ Upon completion of the delivery and verification of the papers, a picture will b
 </p>
 
     Sandouq.
+<p align="center">
+  <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/d8a04c09-a211-41ed-95ce-c9f97fd5176b" alt="Image 1"  />
+  <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/8c75119c-71e7-49f2-bbf7-9b11419e2c63" alt="Image 3"  />
+</p>
 <p align="center">
   <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/16e355e4-f0f2-47f1-9ee8-ddfe6f2165ae" alt="Image 1" width="300"/>
   <img src="https://github.com/marwaneldesouki/Sandouq/assets/37198610/6c0a9250-a822-4a4e-8dcf-e9bd98dc2984" alt="Image 2" width="300"/>
