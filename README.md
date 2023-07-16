@@ -1,5 +1,5 @@
 # Project Title
-- Sandoquq
+- Sandouq
 
 ## Description
 - This my graduation Project.<br>
